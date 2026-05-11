@@ -41,7 +41,7 @@
 ## 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/pdf-to-csv-converter.git
+git clone https://github.com/danchistol/pdf-to-csv-converter.git
 cd pdf-to-csv-converter
 ```
 
